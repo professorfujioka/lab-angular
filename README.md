@@ -35,15 +35,21 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Criando e executando o projeto
 
 * Criando o projeto
+
 `npm install -g @angular/cli --save`
+
 `ng new  NOME-DO-PROJETO`
+
 `cd pasta/NOME-DO-PROJETO` --Pasta onde esta o projeto
 
 * Clonando o projeto e configurando o remote
 
 `git clone git@github.com:rodrigofujioka/lab-angular.git`
+
 `git remote add upstream git@github.com:professorfujioka/lab-angular.git`
+
 `git remote v`
+
  ***
  -- origin  git@github.com:rodrigofujioka/lab-angular.git (fetch)
  -- origin  git@github.com:rodrigofujioka/lab-angular.git (push)
@@ -52,7 +58,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  ***
 
 * https://www.primefaces.org/primeng/#/setup
+
 `npm install primeng --save`  
+
 `npm install primeicons --save`
 
 * Executando o projeto
